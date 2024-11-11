@@ -1,14 +1,13 @@
-# 🌌 AstralExplorer WebBrowser 🚀
+# 🌌 AstralExplorer Web Search Engine 🚀
 
 **Status: Under Construction**
 
-Welcome to the **AstralExplorer WebBrowser**! We are currently in the process of building a cosmic browsing experience that will take you on an interstellar journey through the web. Stay tuned for updates as we work to launch this exciting project!
+Welcome to the **AstralExplorer**! We are currently in the process of building a cosmic browsing experience that will take you on an interstellar journey through the web. Stay tuned for updates as we work to launch this exciting project!
 
 ## 🚧 Current Progress
 
 - [x] Home Page
 - [x] User Interface Design
-- [ ] Application
 - [ ] Socials
 - [ ] Build
 - [ ] Documentation and Tutorials
