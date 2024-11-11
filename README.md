@@ -17,6 +17,6 @@ Welcome to the **AstralExplorer WebBrowser**! We are currently in the process of
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1266113644643614803)](https://discord.com/users/1266113644643614803)
 
-##🌟 License
+## 🌟 License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/theveryheavy/AstralExplorer-WebBrowser/blob/main/LICENSE) for details.
