@@ -1,4 +1,4 @@
-# 🌌 AstralExplorer Web Search Engine 🚀
+# 🌌 AstralExplorer WebBrowser 🚀
 
 **Status: Under Construction**
 
